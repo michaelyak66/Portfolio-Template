@@ -6,7 +6,6 @@ Welcome to the Portfolio Template project! This repository contains a simple and
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Preview](#preview)
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
@@ -23,10 +22,6 @@ The Portfolio Template project provides a clean and responsive template to creat
 - Project Showcase: Display your projects and their descriptions in an organized and presentable manner.
 - Skills and Achievements: Highlight your skills, achievements, and expertise to impress potential clients or employers.
 - Contact Form: Include a contact form so visitors can reach out to you easily.
-
-## Preview
-
-A live preview of the portfolio template is available at: [Portfolio Template Demo](https://your-username.github.io/portfolio-template)
 
 ## Usage
 
